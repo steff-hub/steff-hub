@@ -11,12 +11,12 @@ Sou recém-formado em engenharia em busca de oportunidades e colaboração em pr
 - 🤝 Estou procurando colaborar em projetos de ciência de dados e aprendizado profundo.
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=steff-hub)
 - 🔭 I’m currently working on ...-->
-- Estou em  busca de oportunidades e colaboração em projetos relacionados a tecnologias Front. 
+- Estou em  busca de oportunidades e colaboração em projetos relacionados a tecnologias Front.
 - 🌱 Aprendendo a desenvolver para Web.
 - 🤝 Estou procurando colaborar em projetos, e compartilhar conhecimento.
-**Skill**
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
